@@ -17,10 +17,12 @@ func main() {
 	// Create application with options
 	err := wails.Run(&options.App{
 		Title:            "PeerTV",
-		Width:            1024,
-		Height:           768,
+		Width:            800,
+		MinWidth:         800,
+		Height:           900,
+		MinHeight:        400,
 		Assets:           assets,
-		BackgroundColour: &options.RGBA{R: 27, G: 38, B: 54, A: 1},
+		BackgroundColour: &options.RGBA{R: 0, G: 0, B: 0, A: 255},
 		OnStartup:        app.startup,
 		Bind: []interface{}{
 			app,

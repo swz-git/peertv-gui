@@ -1,0 +1,26 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_2)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M168.293 73.8931C163.769 70.7254 157.533 71.8248 154.365 76.3489C151.198 80.8729 152.297 87.1084 156.821 90.2762L345.226 222.199C345.363 222.295 345.502 222.387 345.643 222.476C345.774 222.577 345.908 222.676 346.045 222.772C350.569 225.94 356.805 224.841 359.973 220.317L491.895 31.9116C495.063 27.3876 493.963 21.1521 489.439 17.9843C484.915 14.8165 478.68 15.916 475.512 20.4401L349.325 200.654L168.293 73.8931Z" fill="#494E51"/>
+<rect x="25" y="175" width="950" height="650" rx="50" fill="#32373B"/>
+<rect x="65" y="215" width="693" height="570" rx="25" fill="#BDC3C7"/>
+<circle cx="866.5" cy="300" r="85" fill="#595155"/>
+<circle cx="867" cy="490" r="85" fill="#595155"/>
+<circle cx="199" cy="368" r="50" fill="#00AAFF"/>
+<circle cx="428" cy="292" r="50" fill="#00AAFF"/>
+<circle cx="221" cy="662" r="50" fill="#00AAFF"/>
+<circle cx="387" cy="550" r="50" fill="#00AAFF"/>
+<circle cx="653" cy="525" r="50" fill="#00AAFF"/>
+<circle cx="537" cy="705" r="50" fill="#00AAFF"/>
+<path d="M199 368L387 550" stroke="#00AAFF" stroke-width="20"/>
+<path d="M428 292L387 550" stroke="#00AAFF" stroke-width="20"/>
+<path d="M653 525L387 550" stroke="#00AAFF" stroke-width="20"/>
+<path d="M537 705L387 550" stroke="#00AAFF" stroke-width="20"/>
+<path d="M221 662L387 550" stroke="#00AAFF" stroke-width="20"/>
+<path d="M653 525L428 292" stroke="#00AAFF" stroke-width="20"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="1000" height="1000" fill="white"/>
+</clipPath>
+</defs>
+</svg>
